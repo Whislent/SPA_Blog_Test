@@ -1,0 +1,7 @@
+.Rating {
+    cursor: pointer;
+}
+
+.Rating:hover {
+    color: gold;
+}

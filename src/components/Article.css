@@ -1,0 +1,18 @@
+.img {
+    display:block;
+    margin:0 auto;
+    max-width: 100%;
+}
+
+.title {
+    text-decoration: none;
+}
+
+.title:hover {
+    text-decoration: underline;
+}
+
+
+.Info {
+    font-size: small;
+}
